@@ -5,7 +5,7 @@ Created on Mon May  9 14:47:49 2016
 @author: Daniyar_Amangeldy
 """
 
-from bottle import Bottle, run,request,template,static_file
+from bottle import run,request,template,static_file
 
 app = Bottle()
 
